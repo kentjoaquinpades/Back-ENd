@@ -6,7 +6,6 @@ const mysqlPool = mysql.createPool({
     user: 'reader',
     password: 'reader',
     database: 'intranet'
-
 })
 
 
